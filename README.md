@@ -99,7 +99,7 @@ git status
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/24.JPG)
 
 ```markdown
-# Add general details :
+# Add General details :
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/25.JPG)
 
