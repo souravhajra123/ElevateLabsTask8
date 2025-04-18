@@ -90,7 +90,7 @@ git status
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/19.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/20.JPG)
 
-## 10. Add `java`, `git` and `Maven` in Dashboard > Manage Jenkins > Tools
+## 10. Add `java`, `git` and `Maven` in `Dashboard > Manage Jenkins > Tools`
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/21.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/22.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/23.JPG)
