@@ -81,3 +81,47 @@ git status
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/b7b326ef7ea54288bfc464addf0c5c52d6222144/images/13.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/b7b326ef7ea54288bfc464addf0c5c52d6222144/images/14.JPG)
 
+## 9. Configure `Jenkins` Dashboard
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/15.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/16.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/17.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/18.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/19.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/20.JPG)
+
+## 10. Add `java`, `git` and `Maven` in Dashboard > Manage Jenkins > Tools
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/21.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/22.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/23.JPG)
+
+## 11. Now create a Freestyle project
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/24.JPG)
+
+```markdown
+# Add general details :
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/25.JPG)
+
+```markdown
+# Add Source Code Management  :
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/26.JPG)
+
+```markdown
+# Add Triggers  :
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/27.JPG)
+
+```markdown
+# Add Build Steps  :
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/28.JPG)
+
+```markdown
+# Project got created  :
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/29.JPG)
+
+## 12. Build the Project manually to test it and check the console output
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/30.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/31.JPG)
