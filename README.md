@@ -50,12 +50,12 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArti
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/9.JPG)
 
 ```markdown
-pom.xml :
+# pom.xml :
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/10.JPG)
 
 ```markdown
-App.java :
+# App.java :
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/11.JPG)
 
