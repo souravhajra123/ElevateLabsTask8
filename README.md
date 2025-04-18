@@ -27,6 +27,7 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]" https://pkg.jenki
 sudo apt-get update
 sudo apt-get install jenkins -y
 ------------------------
+bash java-jenkins.sh
 java --version                      # To check the version after installation is complete
 systemctl status jenkins            # To check status of Jenkins
 ```
