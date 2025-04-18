@@ -140,7 +140,7 @@ git status
 ## 16. Check console output
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/36.JPG)
 
-## 17. After Successful build go to your terminal and change directory to `/var/lib/jenkins/workspace/hello-java-maven-pipeline/target/` to see the package(my-app-1.0-SNAPSHOT.jar) got created
+## 17. After Successful build go to your terminal and change directory to `/var/lib/jenkins/workspace/hello-java-maven-pipeline/target/` to see the package(`my-app-1.0-SNAPSHOT.jar`) got created
 ```bash
 cd /var/lib/jenkins/workspace/hello-java-maven-pipeline/target/
 ```
