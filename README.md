@@ -125,3 +125,24 @@ git status
 ## 12. Build the Project manually to test it and check the console output
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/30.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/e47e0618ab2c877b22331e1d0c6a341ee16fd62e/images/31.JPG)
+
+## 13. Add `Webhook` to your `GitHub` repository to trigger the `Build` automatically
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/32.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/33.JPG)
+
+## 14. Add a README file to your GitHub repository to trigger the Build
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/34.JPG)
+
+## 15. Now check Jenkins Dashboard, you can see that Build got triggered automatically
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/35.jpg)
+
+## 16. Check console output
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/36.JPG)
+
+## 17. After Successful build go to your terminal and change directory to `/var/lib/jenkins/workspace/hello-java-maven-pipeline/target/` to see the package(my-app-1.0-SNAPSHOT.jar) got created
+```bash
+cd /var/lib/jenkins/workspace/hello-java-maven-pipeline/target/
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/9acbdc4bb5465f331f5ea5b4f17a8bc009e1fba7/images/37.JPG)
+
+# THANK YOU
