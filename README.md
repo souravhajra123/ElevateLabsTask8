@@ -59,3 +59,25 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArti
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/11.JPG)
 
+## 7. Initiate .git repository inside /my-app directory and the add and commit all the changes
+```bash
+git init
+git status
+git add .
+git commit -m "sample maven project is added with a sample java code"
+git status
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/b7b326ef7ea54288bfc464addf0c5c52d6222144/images/12.JPG)
+
+## 8. Now push everything to GitHub repository
+```bash
+git branch -M main
+git remote add origin <GitHub_repo_URL>
+git push -u origin main
+git status
+
+# Now go to GitHub repository and refresh the page, you can see all the contents are available in the repository 
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/b7b326ef7ea54288bfc464addf0c5c52d6222144/images/13.JPG)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/b7b326ef7ea54288bfc464addf0c5c52d6222144/images/14.JPG)
+
