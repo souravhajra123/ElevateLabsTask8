@@ -60,7 +60,7 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArti
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/11.JPG)
 
-## 7. Initiate .git repository inside /my-app directory and the add and commit all the changes
+## 7. Initiate .git repository inside `/my-app` directory and the add and commit all the changes
 ```bash
 git init
 git status
