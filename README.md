@@ -36,7 +36,7 @@ systemctl status jenkins            # To check status of Jenkins
 ## 5. Install `Maven`
 ```bash
 sudo apt-get install maven -y
-mvn --version              # To check the version after installation is complete
+mvn --version                       # To check the version after installation is complete
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/6.JPG)
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/7.JPG)
