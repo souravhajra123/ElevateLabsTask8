@@ -12,7 +12,7 @@ sudo apt-get update
 ## 3. Install `Git`
 ```bash
 sudo apt-get install git
-git --version              # To check the version after installation is complete
+git --version                        # To check the version after installation is complete
 ```
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask8/blob/4ba19d59721e3082d0b6038c85b4c9796e9828eb/images/3.JPG)
 
